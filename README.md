@@ -17,7 +17,7 @@ The PhD dissertation is structured into 13 chapters:
 * Chapter 6 is about modeling multilayer wells: [Notebook Chapter 6](https://github.com/alouwyck/PhD/blob/main/chapter6_multilayer_wells.ipynb)
 * Chapter 7 solves some interesting nonlinear problems for multilayer flow: [Notebook Chapter 7](https://github.com/alouwyck/PhD/blob/main/chapter7_two_zone_multiaquifer_systems.ipynb)
 * Chapter 8 treats unconfined multilayer flow: [Notebook Chapter 8](https://github.com/alouwyck/PhD/blob/main/chapter7_two_zone_multiaquifer_systems.ipynb)
-* Chapter 9 provides a better theoretical understanding of confined multilayer flow to a pumping well (Matlab code not available).
+* Chapter 9 provides a better theoretical understanding of confined multilayer flow to a pumping well: [Notebook Chapter 9](https://github.com/alouwyck/PhD/blob/main/chapter9_understanding_radial_flow.ipynb).
 * Chapter 10 derives equations for calculating the radius of influence: [Notebook Chapter 10](https://github.com/alouwyck/PhD/blob/main/chapter10_radius_of_influence_myth.ipynb)
 * Chapter 11 addresses the water budget myth and delves into the distinction between linear and nonlinear models: [Notebook Chapter 11](https://github.com/alouwyck/PhD/blob/main/chapter11_water_budget_myth.ipynb)
 * Chapter 12 is a practical study optimizing a drainage system using linear programming: [Notebook Chapter 12](https://github.com/alouwyck/PhD/blob/main/chapter12_linear_programming.ipynb)
