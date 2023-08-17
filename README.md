@@ -24,8 +24,7 @@ The PhD dissertation is structured into 13 chapters:
 * Chapter 13 concludes and summarizes the thesis and has no code implemented.
 
 
-
-*Copyright: © 2023*
+Copyright: © 2023
 
 *The author and the supervisors give the authorization to consult and to copy parts of this work for personal use only. Every other use is subject to the copyright laws and the source should be specified when using the results and the data from the thesis. Permission to reproduce any material contained in this work should be obtained from the author.*
 
