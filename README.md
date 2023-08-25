@@ -23,10 +23,8 @@ The PhD dissertation is structured into 13 chapters:
 * Chapter 12 is a practical study optimizing a drainage system using linear programming: [Notebook Chapter 12](https://github.com/alouwyck/PhD/blob/main/chapter12_linear_programming.ipynb)
 * Chapter 13 concludes and summarizes the thesis and has no code implemented.
 
-It is not the aim of this PhD research to develop professional software that can be released to
-the public. The code is written with the only objective to verify the newly developed solutions. It is
-not always well-documented, and in many cases, it is badly structured. For sure, computational
-performance of some algorithms can also be enhanced.
+
+It is not the aim of this PhD research to develop professional software for the general public. The code is written with the only objective to verify the newly developed solutions. It is not always well-documented, and in many cases, it is badly structured. For sure, computational performance of some algorithms can also be enhanced.
 
 Copyright: © 2023
 
