@@ -11,7 +11,7 @@ The PhD dissertation is structured into 13 chapters:
 
 * Chapter 1 is a general introduction and has no code implemented.
 * Chapter 2 presents a generalized semi-analytical solution for multilayer flow: [Notebook Chapter 2](https://github.com/alouwyck/PhD/blob/main/chapter2_generalized_semi_analytical_solution.ipynb)
-* Chapter 3 discusses the finite-difference approach to simulating multilayer flow: [MAxSym tool](https://github.com/alouwyck/MAxSym)
+* Chapter 3 discusses the finite-difference approach to simulate multilayer flow: [MAxSym tool](https://github.com/alouwyck/MAxSym)
 * Chapter 4 critically reviews the hybrid finite-difference finite-element method: [Notebook Chapter 4](https://github.com/alouwyck/PhD/blob/main/chapter4_critical_review_AS2D.ipynb)
 * Chapter 5 develops a semi-analytical solution for multilayer-multizone flow: [Notebook Chapter 5](https://github.com/alouwyck/PhD/blob/main/chapter5_multilayer_multizone_flow.ipynb)
 * Chapter 6 is about modeling multilayer wells: [Notebook Chapter 6](https://github.com/alouwyck/PhD/blob/main/chapter6_multilayer_wells.ipynb)
