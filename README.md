@@ -1,7 +1,8 @@
 # Axisymmetric Flow in Multilayer Aquifer Systems: Solutions and Theoretical Considerations
 PhD dissertation by Andy Louwyck under the supervision of Prof. Dr. Kristine Walraevens and Dr. Alexander Vandenbohede.
 
-This repository contains most code examples from the PhD dissertation. Please refer to this work as follows:
+This repository contains the [thesis](https://github.com/alouwyck/PhD/blob/main/PhD_thesis_Andy_Louwyck_2023_for_print_color_with_cover.pdf) 
+and most code examples discussed in it. Please refer to this work as follows:
 
 *Louwyck, A., 2023. Axisymmetric Flow in Multilayer Aquifer Systems: Solutions and Theoretical Considerations. 
 PhD thesis, Laboratory for Applied Geology and Hydrogeology, Department of Geology, Ghent University, Belgium.*
